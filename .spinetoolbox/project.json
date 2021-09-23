@@ -1,0 +1,31 @@
+{
+    "project": {
+        "version": 6,
+        "name": "",
+        "description": "",
+        "specifications": {},
+        "connections": [],
+        "jumps": []
+    },
+    "items": {
+        "Input": {
+            "type": "Data Store",
+            "description": "",
+            "x": -113.18430819303147,
+            "y": 10.706623747989463,
+            "url": {
+                "dialect": "sqlite",
+                "username": "",
+                "password": "",
+                "host": "",
+                "port": "",
+                "database": {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/items/input/casestudy_a1_b1_3.sqlite"
+                }
+            },
+            "cancel_on_error": false
+        }
+    }
+}
