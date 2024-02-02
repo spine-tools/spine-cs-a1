@@ -1,4 +1,5 @@
 # Spine Case Study A1
+** This repository is archived and no longer maintained. You may run into issues.**
 
 Irish dispatch study with power flows
 
